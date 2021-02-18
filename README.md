@@ -9,3 +9,5 @@ PMID: 31036407 DOI: [10.1016/j.tibs.2019.03.008](https://ddddddddddoi.org/10.101
 The Mediator complex is required for basal activity of the RNA polymerase (Pol) II transcriptional apparatus and for responsiveness to some activator proteins. Med15, situated in the Mediator tail, plays a role in transmitting regulatory information from distant DNA-bound transcription factors to the transcriptional apparatus poised at promoters. Yeast Med15 and its orthologs share an unusual, glutamine-rich amino acid composition. Here, we discuss this sequence feature and the tendency of polyglutamine tracts to vary in length among strains of Saccharomyces cerevisiae, and we propose that different polyglutamine tract lengths may be adaptive within certain domestication habitats.
 
 **Keywords**: Gal11; adaptation; domestication; low complexity; polyglutamine.
+
+This is a merge conflict example
